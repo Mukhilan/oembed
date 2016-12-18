@@ -1,0 +1,9 @@
+---
+- provider_name: Zoho Events JR
+  provider_url: http://mukhil-2697.csez.zohocorpin.com:8080/
+  endpoints:
+  - url: http://mukhil-2697.csez.zohocorpin.com:8080/oembed
+    discovery: true
+    example_urls:
+    - http://mukhil-2697.csez.zohocorpin.com:8080/oembed?url=http%3A%2F%2Fmukhil-2697.csez.zohocorpin.com:8080/site/wqdas
+...
